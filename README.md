@@ -2,7 +2,6 @@
 
 ## The sample data used contains information about employees if an organization working in different locations which include following
   - username
-  - identifier
   - password
   - recovery_code
   - first_name
@@ -12,8 +11,6 @@
   - salary
 ### Username
  - username allocated for the employee.
-### Identifier
- - Unique identifier for each employee of the organization.
 ### Password
  - Password of the employee
 ### Recovery_code
