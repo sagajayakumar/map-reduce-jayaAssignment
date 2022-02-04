@@ -1,0 +1,11 @@
+Username	Salary
+booker12	1232
+grey07	3242
+johnson81	1122
+jenkins46	5232
+smith79	3242
+john79	3434
+Madison79	212
+Smith79	124
+Frank79	2434
+James79	234

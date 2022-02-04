@@ -1,0 +1,4 @@
+Frank79	2434.0
+James79	234.0
+Madison79	212.0
+Smith79	124.0
